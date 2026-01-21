@@ -1,1 +1,13 @@
 ------------     this is my first txt file made on git -----------
+
+
+there are a couple methods that we can implement to use Open-Source CAD software for Linux
+
+I used ubuntu as it is a commercial standard to run these, I tried to source FreeCads entire repo but it took to long to build and was loose so i installed it on snap instead, but here you go:
+
+
+1. MeshLab
+
+2. FreeCAD
+
+3. Open3D
