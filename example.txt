@@ -11,3 +11,12 @@ I used ubuntu as it is a commercial standard to run these, I tried to source Fre
 2. FreeCAD
 
 3. Open3D
+
+
+Most convenient open-source CAD tools that can be used in the advantage of dentalCAD designs
+
+1. Open3D, give you flexibility and you can even import the library into a python script to run your own dentalCAD software
+
+2. Meshlab only good for viewing and configurations but not free-form mesh styling
+
+3. FreeCAD, this is a parametric open-source CAD software solution which means that arrangements done is more precise and doesn't provide too much flexibility, it does however provide a python API to import macro shortcuts whenever you're using the software, this type of software is mostly used in different types of engineering fields, but is not keen to working well specifically for just dentalCAD designs
